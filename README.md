@@ -34,4 +34,4 @@ The perfomance metrics that we use: confusion matrix, precision, recall and F1-s
 XGBoost model has the higher F1-Score, we use it to predict on the future orders.
 Prediction is saved as a csv file named: reorder_prediction.csv
 
-Team members: Duyen Thanh, Neha Palnati, Vanshika Gupta, Xiangnan Cui
+Team members: Vanshika Gupta (Lead), Duyen Thanh, Neha Palnati, Xiangnan Cui
